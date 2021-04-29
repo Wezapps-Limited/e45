@@ -2,4 +2,4 @@ npm install
 npm install nodemon
 nodemon server.js
 python manage.py migrate
-python manage runserver
+python manage.py runserver
